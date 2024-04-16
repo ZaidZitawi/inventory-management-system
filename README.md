@@ -5,7 +5,7 @@
 This Inventory Management System is designed to streamline the process of tracking and managing inventory, suppliers, and transactions for businesses. By leveraging a structured relational database, the system aims to maintain high data integrity and provide a comprehensive overview of inventory operations.
 
 ## Entity-Relationship Diagram
-![inventory managmetn system ](https://github.com/ZaidZitawi/-inventory-management-system/assets/111902956/3df252df-d013-4295-8190-6c73f13821c5)
+![inventory managmetn system ](https://github.com/ZaidZitawi/inventory-management-system/assets/111902956/f8253072-0f72-4d37-954e-f45c08076f9a)
 
 
 ## Features
