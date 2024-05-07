@@ -102,12 +102,4 @@ To set up and run the application, follow these steps:
    
 2. **Database Setup**
    - Ensure you have a SQL database system (e.g., MySQL) installed and running.
-   - Execute the SQL scripts provided in the `sql/` directory to create the database and tables.
-
-3. **Application Configuration**
-   - Navigate to the application's root directory.
-   - Update the `config.json` (or relevant configuration file) with your database connection details.
-
-4. **Running the Application**
-   - Run `npm start` or the equivalent command based on your application setup to start the server.
-   - Access the application through the specified port on your local machine (e.g., `http://localhost:3000`).
+   - Execute the SQL scripts provided in the `SQL/` directory to create the database and tables.
